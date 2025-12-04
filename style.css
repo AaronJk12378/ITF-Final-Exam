@@ -1,0 +1,51 @@
+body {
+background: gray;
+}
+
+img {
+display: flex;
+justify-content: center;
+}
+
+h1 {
+color: white;
+text-align: center;
+text-shadow: 2px 2px 5px green;
+text-decoration: underline;
+}
+
+h3
+color: white;
+text-align: center;
+text-shadow: 2px 2px 5px red;
+text-decoration: underline;
+}
+
+p {
+color: white;
+text-align: center;
+}
+
+.pop1 {
+color: white;
+text-align: center;
+text-shadow: 2px 2px 5px purple;
+text-decoration-line: underline;
+text-decoration-style: wavy;
+}
+
+.pop2 {
+color: white;
+tetx-align: center;
+text-shadow: 2px 2px 5px yellow;
+border: 2px solid blue;
+}
+
+.wow {
+color: white;
+text-align: center;
+text-shadow: 2px 2px 5px orange;
+border: 2px solid lightblue;
+}
+
+
